@@ -7,8 +7,6 @@ Este proyecto consiste en un modelo predictivo para clasificar diferentes tipos 
  scr
  
    data: Contiene los archivos usados en el proyecto.
-    
-   Images: Contiene imágenes usadas en este archivo Markdown.
 
    Model: Contiene los modelos realizados en el proyecto.
 
